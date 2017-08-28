@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About the PAQ
 
-You can use the [editor on GitHub](https://github.com/langcog/PAQ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Parenting Attitudes Questionnaire (PAQ) is a short, psychometrically-valid instrument for assessing adults' beliefs about parenting and child development. The PAQ measures three subscales: **rules and respect**, **affection and attachment**, and **early learning**. Our goals in designing the PAQ were to create a short instrument that 1) could measure population-level differences in attitudes, 2) could be used as a moderator in experimental and intervention studies on child outcomes of caregiving, and 3) could be used as an outcome variable for belief- and behavior-change interventions for caregiving.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Administering the PAQ
 
-### Markdown
+The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experimental Evidence
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Materials and Translations
 
-1. Numbered
-2. List
+* Our Cognitive Science Society paper, [Hembacher & Frank (2016)](https://drive.google.com/open?id=0B_91uKOhLDzKbGFpZGhJOXhBdVE).
+* [Google forms version of the PAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk)
+* Printable PAQ form in [English](https://drive.google.com/open?id=1ND3AT17TGto3-KJ5u0DD1r19Q5rowgL4Lg5XM8UMr6M) and [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
+* Scoring information in [English](https://drive.google.com/open?id=1ovMXj28zAnTO5IrJ-HRxJPXrtIdOFLjwY1P1yXOLYzU) and [Spanish](https://drive.google.com/open?id=1U-rQvxZa04A3MjJJM2ILxbPijC0Awrk0FMGNP3Jud6E)
 
-**Bold** and _Italic_ and `Code` text
+## Contact and Acknowledgements
 
-[Link](url) and ![Image](src)
-```
+Research and development of the PAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/langcog/PAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information, contact [Emily Hembacher](mailto://ehembach at stanford dot edu).
