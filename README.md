@@ -2,13 +2,11 @@
 
 The Parenting Attitudes Questionnaire (PAQ) is a short, psychometrically-valid instrument for assessing adults' beliefs about parenting and child development. The PAQ measures three subscales: **rules and respect**, **affection and attachment**, and **early learning**. Our goals in designing the PAQ were to create a short instrument that 1) could measure population-level differences in attitudes, 2) could be used as a moderator in experimental and intervention studies on child outcomes of caregiving, and 3) could be used as an outcome variable for belief- and behavior-change interventions for caregiving.
 
-## Administering the PAQ
+The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively. It has subscale reliabilities of alpha = XYZ, XYZ, and XYZ, respectively. See here for a summary of our experimental evidence for validity, including:
 
-The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively.
-
-## Experimental Evidence
-
-
+* Correlations with demographic variability,
+* Relationship to self-reported caregiving behaviors, and
+* Relationship to information uptake.
 
 ## Materials and Translations
 
@@ -21,4 +19,4 @@ The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online 
 
 Research and development of the PAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
-For more information, contact [Emily Hembacher](mailto://ehembach at stanford dot edu).
+For more information, contact [Emily Hembacher](http://web.stanford.edu/~ehembach/).
