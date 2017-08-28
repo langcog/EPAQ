@@ -6,9 +6,9 @@ The Parenting Attitudes Questionnaire (PAQ) is a short, psychometrically-valid i
 
 The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively. It has subscale reliabilities of alpha = XYZ, XYZ, and XYZ, respectively. See here for a summary of our experimental evidence for validity, including:
 
-* [Correlations with demographic variability](demo.md),
-* Relationship to self-reported caregiving behaviors, and
-* Relationship to information uptake.
+* [Correlations with demographic variability](https://langcog.github.io/PAQ/demographic),
+* [Relationship to self-reported caregiving behaviors](https://langcog.github.io/PAQ/behaviors), and
+* [Relationship to information uptake](https://langcog.github.io/PAQ/uptake).
 
 ## Materials and Translations
 
