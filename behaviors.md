@@ -14,7 +14,7 @@ How often do parents report engaging in different caregiving behaviors?
 
 Do parents' agreement with the early learning, affection and attachment, and rules and respect theories predict the frequency of their behaviors in these domains?
 
-
+![atts_behave.png](atts_behave.png)
 
 ## Conclusions
 
