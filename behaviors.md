@@ -12,6 +12,8 @@ How often do parents report engaging in different caregiving behaviors?
 
 ![behave.png](behave.png)
 
+Do parents' agreement with the early learning, affection and attachment, and rules and respect theories predict the frequency of their behaviors in these domains?
+
 ## Conclusions
 
 * Lay parenting theories are associated with the frequency of specific parenting behaviors (in particular those associated with affection and attachment and early learning).
