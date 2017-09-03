@@ -8,9 +8,9 @@ Do parents' attitudes about parenting and child development predict their self-r
 
 ## Results
 
-![behave.png](behave.png)
-
 How often do parents report engaging in different caregiving behaviors?
+
+![behave.png](behave.png)
 
 ## Conclusions
 
