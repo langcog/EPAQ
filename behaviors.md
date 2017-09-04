@@ -16,7 +16,7 @@ Do parents' agreement with the EL, AA, and RR theories predict the frequency of 
 
 ![atts_behave_bins.png](atts_behave_bins.png)
 
-Logistic mixed-effects regressions predicting the frequency of behaviors (low = never, almost never, occasionally, once or twice per week; high = most days, multiple times every day) were fit for each category separately, with the following structure: glmer(frequency ~ AA PAQ Score + RR PAQ Score + EL PAQ Score + Child Age + (1|Participant) + (1|Behavior). The frequency of AA behaviors was predicted uniquely by AA PAQ scores, and the frequency of EL behaviors was predicted by both AA and EL PAQ scores. There were no significant predictors of RR behaviors.
+Logistic mixed-effects regressions predicting the frequency of behaviors (low = never, almost never, occasionally, once or twice per week; high = most days, multiple times every day) were fit for each category separately. The frequency of AA behaviors was predicted uniquely by AA PAQ scores, and the frequency of EL behaviors was predicted by both AA and EL PAQ scores. There were no significant predictors of RR behaviors.
 
 ## Conclusions
 
