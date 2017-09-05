@@ -1,6 +1,6 @@
 # Relationship of parenting attitudes to information uptake
 
-## Method
+## Methods
 
 ## Results
 

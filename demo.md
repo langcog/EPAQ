@@ -1,6 +1,6 @@
 # Correlations with demographic variability
 
-## Method
+## Methods
 
 ## Results
 
