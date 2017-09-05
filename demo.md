@@ -11,3 +11,6 @@ Do parents' attitudes about parenting and child development vary based on demogr
 
 
 ## Conclusions
+
+
+Analytic code can be found [here](https://github.com/langcog/parenting_proj/blob/master/analysis/parenting_proj_cdm.Rmd).
