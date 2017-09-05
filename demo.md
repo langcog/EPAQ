@@ -8,7 +8,13 @@ Do parents' attitudes about parenting and child development vary based on demogr
 
 ## Results
 
+### Gender 
+
+Mothers score higher on the affection and attachment (AA) subscale compared to fathers. Attitudes about early learning (EL) and rules and respect (RR) do not vary based on gender. 
+
 ![paq_gender.png](paq_gender.png)
+
+
 
 ## Conclusions
 
