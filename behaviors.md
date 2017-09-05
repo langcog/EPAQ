@@ -24,4 +24,4 @@ Logistic mixed-effects regressions predicting the frequency of behaviors (*low* 
 * The rules and respect behaviors we chose to examine were not related to scores on the PAQ. These particular behaviors may be more related to child characteristics, or may be frequent even among parents who do not prioritize rules and respect in particular. 
 * Interventions on parenting behaviors might consider targeting lay parenting theories.
 
-Analytic code can be found [here](https://github.com/langcog/parenting_proj/blob/master/analysis/parenting_behaviors_e2.Rmd).
+Analytic code can be found [here](http://rpubs.com/ehembacher/parenting_proj_behaviors).
