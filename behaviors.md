@@ -2,9 +2,9 @@
 
 Do parents' attitudes about parenting and child development predict their self-reported caregiving behaviors?
 
-## Method
+## Methods
 
-250 parents of young children (ages 0-5 years) were recruited on Amazon's Mechanical Turk. They completed the Parenting Attitudes Questionnaire (PAQ) and rated how frequently they engaged in 12 caregiving behaviors predicted to relate to early learning (EL), affection and attachment (AA), or rules and respect (RR) theories as assessed by the PAQ.
+250 parents of young children (ages 0-5 years) were recruited on Amazon's Mechanical Turk. They 1) completed the Parenting Attitudes Questionnaire (PAQ) and 2) rated how frequently they engaged in 12 caregiving behaviors predicted to relate to early learning (EL), affection and attachment (AA), or rules and respect (RR) theories as assessed by the PAQ.
 
 ## Results
 
