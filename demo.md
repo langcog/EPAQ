@@ -14,6 +14,9 @@ Mothers score higher on the affection and attachment (AA) subscale compared to f
 
 ![paq_gender.png](paq_gender.png)
 
+Parents score lower on the AA subscale with age. The other subscales (EL and RR) do not vary based on parent age.
+
+![parent_age.png](parent_age.png)
 
 
 ## Conclusions
