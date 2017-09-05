@@ -23,3 +23,5 @@ Logistic mixed-effects regressions predicting the frequency of behaviors (*low* 
 * Lay parenting theories are associated with the frequency of specific parenting behaviors (in particular those associated with affection and attachment and early learning). 
 * The rules and respect behaviors we chose to examine were not related to scores on the PAQ. These particular behaviors may be more related to child characteristics, or may be frequent even among parents who do not prioritize rules and respect in particular. 
 * Interventions on parenting behaviors might consider targeting lay parenting theories.
+
+Analytic code can be found [here](https://drive.google.com/open?id=0B_91uKOhLDzKbGFpZGhJOXhBdVE)
