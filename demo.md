@@ -10,8 +10,6 @@ Do parents' attitudes about parenting and child development vary based on demogr
 
 Linear mixed-effects models were fit to estimate whether demographic factors predicted scores on the early learning (EL), affection and attachment (AA), and rules and respect (RR) subscales. 
 
-**p<.001 *p<.05
-
 ### Parent gender 
 
 Mothers score higher on the affection and attachment (AA) subscale compared to fathers. Attitudes about early learning (EL) and rules and respect (RR) do not vary based on gender. 
@@ -49,6 +47,8 @@ Do parents who are members at a children's museum differ in their parenting atti
 ![cdm_mturk.png](cdm_mturk.png)
 
 ![sample.png](sample.png)
+
+**p<.001 *p<.05
 
 ## Conclusions
 
