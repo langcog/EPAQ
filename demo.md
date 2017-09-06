@@ -44,8 +44,6 @@ Asian and Hispanic parents score higher on the RR subscale compared to White par
 
 Do parents who are members at a children's museum differ in their parenting attitudes compared to a nationwide sample? The responses of parents from the CDM membership list were compared with two samples of 250 participants each recruited on Amazon's Mechanical Turk. CDM parents endorsed the EL and AA subscales to a greater extent than the national samples, and the RR subscale to a lesser extent than the national samples.
 
-![cdm_mturk.png](cdm_mturk.png)
-
 ![sample.png](sample.png)
 
 **p<.001 *p<.05
