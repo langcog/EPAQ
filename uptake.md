@@ -14,4 +14,6 @@ Higher scores on the EL and AA subscales of the PAQ predicted memory for both th
 
 ## Conclusions
 
-* Endorsement of El and AA subscales predicts memory for science articles in general, but no strong evidence for domain-specific benefit.
+* Endorsement of El and AA subscales predicts memory for science articles in general, but there is no strong evidence for a domain-specific benefit.
+
+More information and analytic code can be found [here](http://rpubs.com/ehembacher/parenting_proj_uptake).
