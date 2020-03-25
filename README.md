@@ -1,6 +1,6 @@
 ![logo.png](logo.png)
 
-## About the PAQ
+## About the EPAQ
 
 The Early Parenting Attitudes Questionnaire (EPAQ) is a short, psychometrically-valid instrument for assessing adults' beliefs about parenting and child development. The PAQ measures three subscales: **rules and respect**, **affection and attachment**, and **early learning**. Our goals in designing the EPAQ were to create a short instrument that could 1) measure population-level differences in attitudes, 2) be used as a moderator in experimental and intervention studies on caregiving behaviors, and 3) be used as an outcome variable for caregiving belief- and behavior-change interventions.
 
@@ -10,12 +10,12 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 
 ## Materials and Translations
 
-* [Google forms version of the PAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk)
+* [Google forms version of the EPAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk)
 * Printable PAQ form in [English](https://drive.google.com/open?id=1ND3AT17TGto3-KJ5u0DD1r19Q5rowgL4Lg5XM8UMr6M) and [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
 * Scoring information in [English](https://drive.google.com/open?id=1ovMXj28zAnTO5IrJ-HRxJPXrtIdOFLjwY1P1yXOLYzU) and [Spanish](https://drive.google.com/open?id=1U-rQvxZa04A3MjJJM2ILxbPijC0Awrk0FMGNP3Jud6E)
 
 ## Contact and Acknowledgements
 
-Research and development of the PAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
+Research and development of the EPAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
 For more information, contact [Michael Frank](http://web.stanford.edu/~mcfrank/).
