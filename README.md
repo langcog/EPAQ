@@ -16,7 +16,7 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 
 * [English](https://drive.google.com/open?id=1ND3AT17TGto3-KJ5u0DD1r19Q5rowgL4Lg5XM8UMr6M) 
 * [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
-* [French](https://docs.google.com/document/d/14DlYWkSFzHSpyg8-epVxq2bw4naTBGZsfsgDRnC3Re0) - courtesy of Christina Bergmann
+* [French version 1](https://docs.google.com/document/d/14DlYWkSFzHSpyg8-epVxq2bw4naTBGZsfsgDRnC3Re0) - courtesy of Christina Bergmann and [French version 2](https://docs.google.com/document/d/1vZUavImmrzffW4Q0dAppY4EvRxtQZnucVTQ-x9X8gp4) - courtesy of Rebecca Shankland
 * [Danish](https://www.dropbox.com/s/0he1rcsexhpe1sr/PAQ-Danish.pdf?dl=0) - courtesy of Christina Dideriksen, note four extra questions about child-directed speech at the end
 
 ### Scoring information 
