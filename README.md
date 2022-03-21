@@ -29,6 +29,8 @@ We are very happy for you to translate the form, but we ask that you share it ba
 
 Research and development of the EPAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
+The original repository for the paper can be found [here](https://github.com/langcog/parenting_proj) and [an OSF repository](https://osf.io/pb3a4/) archives some raw materials and preprints. 
+
 For more information, contact [Michael Frank](http://web.stanford.edu/~mcfrank/).
 
 ## License
