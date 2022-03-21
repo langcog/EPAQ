@@ -10,22 +10,27 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 
 ## Materials and Translations
 
-* [Google forms English version of the EPAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk)
+## Main versions
+
+[PDF version of the EPAQ](https://drive.google.com/file/d/1imxrvppP1-Efl4T0-n-JX5HWSBDxseKj)
+[Word verson of the EPAQ](https://docs.google.com/document/d/1YZcAfGQ4SA8N3B-JpUtK4lp9lq7hPAn2)
+
+[Google forms English version of the EPAQ](https://drive.google.com/open?id=12_6uMkoPapp5-AW6hpSQ8bAwx6vq-5oZOhUZH4dFgjk) - Note, please MAKE A COPY of the EPAQ form rather than trying to edit this one directly (or using it to collect your own data!).
 
 ### Translations
 
-* [English](https://drive.google.com/open?id=1ND3AT17TGto3-KJ5u0DD1r19Q5rowgL4Lg5XM8UMr6M) 
 * [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
-* [French version](https://drive.google.com/file/d/1b1TyRrOKrFR7W0dJhm6-5mttjas-axr3) - courtesy of Rebecca Shankland and Christina Bergmann 
-* [Danish](https://www.dropbox.com/s/0he1rcsexhpe1sr/PAQ-Danish.pdf?dl=0) - courtesy of Christina Dideriksen, note four extra questions about child-directed speech at the end
+* [French](https://docs.google.com/document/d/1meKyKWf11o6JwekyOFyMe0NqNjEZEJFg) - courtesy of Rebecca Shankland and Christina Bergmann 
+* [Danish](https://drive.google.com/file/d/1D9XK6QA9EwqpbrDtG_I1lhCCGE2zTBYF) - courtesy of Christina Dideriksen, note four extra questions about child-directed speech at the end
 
-### Scoring information 
-
-* [English](https://drive.google.com/open?id=1ovMXj28zAnTO5IrJ-HRxJPXrtIdOFLjwY1P1yXOLYzU)
-* [Spanish](https://drive.google.com/open?id=1U-rQvxZa04A3MjJJM2ILxbPijC0Awrk0FMGNP3Jud6E)
+We are very happy for you to translate the form, but we ask that you share it back to us for posting on this website. We also ask that you maintain the CC-BY 4.0 license as shown below.
 
 ## Contact and Acknowledgements
 
 Research and development of the EPAQ was supported by a generous gift from [Kinedu](https://www.kinedu.com/).
 
 For more information, contact [Michael Frank](http://web.stanford.edu/~mcfrank/).
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It can be shared and adapted, but you must acknowledge the original by citing the paper above. 
