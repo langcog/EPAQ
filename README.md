@@ -19,10 +19,11 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 
 ### Translations
 
-* [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
-* [French](https://docs.google.com/document/d/1meKyKWf11o6JwekyOFyMe0NqNjEZEJFg) - courtesy of Rebecca Shankland and Christina Bergmann 
 * [Danish](https://drive.google.com/file/d/1D9XK6QA9EwqpbrDtG_I1lhCCGE2zTBYF) - courtesy of Christina Dideriksen, note four extra questions about child-directed speech at the end
-* [Russian](https://drive.google.com/file/d/17jA8tKuWwOlDPAbD-Kd1Q4pC3j-4Bnao/view?usp=sharing) - courtesy of Natalia Kartushina and Margarita Gavrilova
+* [French](https://docs.google.com/document/d/1meKyKWf11o6JwekyOFyMe0NqNjEZEJFg) - courtesy of Rebecca Shankland and Christina Bergmann 
+* [Greek](https://docs.google.com/document/d/1IZF_jOfxcG8WiEF0BYrrpj3Y20s2PO-F) - courtesy of Elena Averkiou
+* [Russian](https://drive.google.com/file/d/17jA8tKuWwOlDPAbD-Kd1Q4pC3j-4Bnao) - courtesy of Natalia Kartushina and Margarita Gavrilova
+* [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
 
 We are very happy for you to translate the form, but we ask that you share it back to us for posting on this website. We also ask that you maintain the CC-BY 4.0 license as shown below.
 
