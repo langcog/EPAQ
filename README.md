@@ -10,7 +10,7 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 
 ## Materials and Translations
 
-## Main versions
+### Main versions
 
 [PDF version of the EPAQ](https://drive.google.com/file/d/1imxrvppP1-Efl4T0-n-JX5HWSBDxseKj)
 [Word verson of the EPAQ](https://docs.google.com/document/d/1YZcAfGQ4SA8N3B-JpUtK4lp9lq7hPAn2)
@@ -26,6 +26,12 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 * [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
 
 We are very happy for you to translate the form, but we ask that you share it back to us for posting on this website. We also ask that you maintain the CC-BY 4.0 license as shown below.
+
+Users should be aware of data that the EPAQ may not perform identically across cultures, see [this preprint](https://osf.io/preprints/psyarxiv/x32ef) by Allegretta et al. 
+
+### Scoring
+
+EPAQ is currently scored by compiling the sumscores for each subscale. More sophisticated scoring methods could in principle lead to better scores, and we welcome work in this direction. 
 
 ## Contact and Acknowledgements
 
