@@ -24,6 +24,7 @@ Scale construction and validity evidence is described in [Hembacher & Frank (202
 * [Greek](https://docs.google.com/document/d/1IZF_jOfxcG8WiEF0BYrrpj3Y20s2PO-F) - courtesy of Elena Averkiou
 * [Russian](https://drive.google.com/file/d/17jA8tKuWwOlDPAbD-Kd1Q4pC3j-4Bnao) - courtesy of Natalia Kartushina and Margarita Gavrilova
 * [Spanish](https://drive.google.com/open?id=1yRye8nYAlwYQVPOgTYf-pqgAoH1O00zPuo5JA9_QQ-M)
+* [Ukranian](https://docs.google.com/document/d/191PF4dmJtSWH7_DppmARszCa5HGtmia2)
 
 We are very happy for you to translate the form, but we ask that you share it back to us for posting on this website. We also ask that you maintain the CC-BY 4.0 license as shown below.
 
