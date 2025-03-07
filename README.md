@@ -6,7 +6,7 @@ The Early Parenting Attitudes Questionnaire (EPAQ) is a short, psychometrically-
 
 The PAQ has 24 items (8 per subscale, 12 reverse coded) and can be given online or on paper. Spanish and French translations are available, but have not been validated as extensively. It has subscale reliabilities of alpha = .69 (rules and respect), .75 (affection and attachment), and .76 (early learning), respectively. 
 
-Scale construction and validity evidence is described in [Hembacher & Frank (2020), Collabra: Psychology](https://www.collabra.org/article/10.1525/collabra.190/).
+Scale construction and validity evidence is described in [Hembacher & Frank (2020), Collabra: Psychology](https://doi.org/10.1525/collabra.190).
 
 ## Materials and Translations
 
